@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning React
-- 👩‍🎓 I'm majoring in Statistics, at Sookmyung Women's University
+- 👩‍🎓 I'm double majoring in Statistics and Computer Science, at Sookmyung Women's University
 - 📫 How to reach me: choseoin1140@sookmyung.ac.kr
 
 - - -
