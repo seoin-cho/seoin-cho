@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning React  :<mark style='background-color: #f6f8fa'>React</mark>:
+- 🌱 I’m currently learning React
 - 👩‍🎓 I'm majoring in Statistics, at Sookmyung Women's University
 - 📫 How to reach me: choseoin1140@sookmyung.ac.kr
 
