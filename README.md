@@ -9,20 +9,20 @@ Here are some ideas to get you started: -->
 - 👩‍🎓 I'm majoring in Statistics, at Sookmyung Women's University
 - 📫 How to reach me: choseoin1140@sookmyung.ac.kr
 
-***
+- - -
 
 ### Activity
 
 - 💻 Member of SOLUX (2020.03~)
 
-***
+- - -
 
 ### Project
 
 - 🏠 Alaboja / 사용자 조건에 맞는 임대주택 추천 웹 (2020.12~2021.02)
 - 📖 WebKidsOnTheBlock / 학습관리 도움 서비스 웹 (2021.03~2021.08)
 
-***
+- - -
 
 ### Experiences
 
