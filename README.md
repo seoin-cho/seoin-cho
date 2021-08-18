@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 ### Project
 
 - 🏠 Alaboja / 사용자 조건에 맞는 임대주택 추천 웹 (2020.12~2021.02)
-- 📖 WebKidsOnTheBlock / 학습관리 도움 서비스 웹 (2021.03~2021.08)
+- 📖 [WebKidsOnTheBlock](https://github.com/SoluxProject) / 학습관리 도움 서비스 웹 (2021.03~2021.08)
 
 - - -
 
