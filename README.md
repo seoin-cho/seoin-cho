@@ -14,13 +14,14 @@ Here are some ideas to get you started: -->
 ### Activity
 
 - 💻 Member of SOLUX (2020.03~)
-
+- 💻 Officer of SOLUX (2021.09~)
 - - -
 
 ### Project
 
 - 🏠 Alaboja / 사용자 조건에 맞는 임대주택 추천 웹 (2020.12~2021.02)
 - 📖 [SWEETME(SWM)](https://github.com/SoluxProject) / 학습관리 도움 서비스 웹 (2021.03~2021.08)
+- :mount_fuji: [SantaIsSanta](https://github.com/SOLUX-2019/SantaIsSanta) / 등산 커뮤니티 웹 (2021.09~2022.02)
 
 - - -
 
